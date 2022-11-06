@@ -17,4 +17,11 @@
 
 1. Learnt sevaral new DAX functions - COUNTROWS, DISTINCTCOUNT, GROUPBY, VALUE, SELECTEDVALUE, HASONEVALUE, SWITCH
 2. Learnt the importance of building the right data model. Initially I was getting incorrect values because the data model was not built properly
-3. Learnt about concepts like circular dependency
+3. Learnt how to create a sparkline
+4. Learnt how to use bookmarks functionality
+5. Learnt ways to format different charts, using conditional formatting to create heatmaps
+4. Learnt about concepts like circular dependency
+
+# Important Links
+
+Codebasics Resume Challenge - https://codebasics.io/event/codebasics-resume-project-challenge
